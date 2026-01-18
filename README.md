@@ -19,6 +19,40 @@ It focuses on speed, simplicity, and clean output while providing essential reco
 
 
 ### 🚀 Installation
-git clone https://github.com/yourusername/quickstrike.git
-#### cd quickstrike
+```
+git clone https://github.com/Nivas-cyber/Quickstrike.git
+```
+```
+cd quickstrike
+```
+```
 chmod +x quickstrike_v2.py
+```
+
+### ▶ Usage
+```
+python3 quickstrike_v2.py <target> <start_port> <end_port>
+```
+### Example
+```
+python3 quickstrike_v2.py example.com 1 1000
+```
+
+### 🧠 How It Works
+
+* Resolves domain to IP address
+
+* Performs multi-threaded TCP port scanning
+
+* Identifies common services
+
+* Attempts banner grabbing for fingerprinting
+
+* Saves results in a timestamped report file
+
+### 🔐 Legal Disclaimer
+
+* This tool is created strictly for educational and ethical security testing.
+
+* You are responsible for your actions.
+* Unauthorized scanning or attacking systems without permission is illegal.
