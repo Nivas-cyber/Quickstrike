@@ -56,3 +56,43 @@ python3 quickstrike_v2.py example.com 1 1000
 
 * You are responsible for your actions.
 * Unauthorized scanning or attacking systems without permission is illegal.
+
+
+
+### 🧠 Learning Purpose
+
+QuickStrike is designed to help learners:
+
+* Understand how port scanners work internally
+
+* Learn multi-threading in Python
+
+* Practice real bug bounty recon techniques
+
+* Build confidence before advanced tools (nmap, masscan)
+
+### 👨‍💻 Author
+
+cyber_specterz https://www.instagram.com/cyber_specterz?igsh=bThuNzd4ZjQ1M3B1
+
+Cybersecurity Education & Ethical Hacking
+📍 India
+
+“Learn how tools work — don’t just run tools.”
+
+### ⭐ Support
+
+If you like this project:
+
+* ⭐ Star the repository
+
+* 🍴 Fork it
+
+* 🛠️ Improve it
+
+* 📢 Share with learners
+
+### 🏁 Final Note
+
+QuickStrike v2 is not a replacement for nmap.
+It is a learning-focused recon engine that teaches you how real tools are built.
